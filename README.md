@@ -16,6 +16,8 @@ Visual Studio Code || HTML5 || CSS3 || Tailwind Css || JavaScript <br>
 <br>
 React || Nodejs || Express || MongoDb || EJS || C++ || DSA
 
+[![@alokkr's Holopin board](https://holopin.me/alokkr)](https://holopin.io/@alokkr)
+
 
 
 
