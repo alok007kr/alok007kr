@@ -12,9 +12,9 @@
 <br>
 
 <h3>Languages and Tools: </h3> <br>
-Visual Studio Code || HTML5 || CSS3 || Tailwind Css || JavaScript <br>
+Visual Studio Code || HTML5 || CSS3 || Tailwind Css || JavaScript
 <br>
-React || Nodejs || Express || MongoDb || EJS || C++ || DSA
+React || Nodejs || Express || MongoDb || EJS || Solidity || C++ || DSA
 
 [![@alokkr's Holopin board](https://holopin.me/alokkr)](https://holopin.io/@alokkr)
 
