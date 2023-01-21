@@ -8,7 +8,7 @@
 👯 I am eager to learn about new technologies.
 
 <h3>Connect with me:</h3> <br>
-<a href="linkedin.com/in/alok-kumar0">LinkedIn</a> | <a href="github.com/alok007kr"> Github</a> | <a href=".facebook.com/ajit.raj.52831">Facebook</a> | <a href="instagram.com/iamalokmr">Instagram</a>
+<a href="linkedin.com/in/alok-kumar0">LinkedIn</a> | <a href="github.com/alok007kr"> Github</a> | <a href="facebook.com">Facebook</a> | <a href="instagram.com/iamalokmr">Instagram</a>
 <br>
 
 <h3>Languages and Tools: </h3> <br>
